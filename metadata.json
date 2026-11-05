@@ -1,0 +1,6 @@
+{
+  "name": "ActaCite — AI Academic Notice Intelligence",
+  "description": "Convert academic and college notices into evidence-linked, ambiguity-guarded task checklists with exact quote traceability, deadlines, eligibility filters, and calendar exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
